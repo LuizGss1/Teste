@@ -1,0 +1,142 @@
+    body{
+        font-family: sans-serif;
+        padding-left: 90px;
+    }
+    
+    h1{
+        font-size:30px;
+        text-align: center;
+        background-color: lightblue;
+        border: 2px solid #000000;
+        width:70%;
+        margin:auto;
+        color: darkblue;
+    }
+    
+    .P1 {
+        text-align: center;
+        margin-bottom: 2%;
+    }
+
+    h2{
+        font-size: 30px;
+        text-indent: 1%;
+        background-color: #CCC;
+        border-bottom: 3px solid black;
+        width: 70%;
+        margin-top: auto;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: auto;
+        color: darkblue;
+    }
+
+    .P2 {
+        width: 100%;
+        text-indent: 15%;
+        margin-bottom: 2%;
+    }
+
+    h3{
+        font-size: 30px;
+        text-indent: 1%;
+        background-color: #CCC;
+        border-bottom: 3px solid black;
+        width: 70%;
+        margin-top: auto;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: auto;
+        color: darkblue;
+    }
+
+    .Nubank {
+        color:blue;
+    }
+
+    .P3 {
+        width: 100%;
+        text-indent: 15%;
+        font-weight:bold;
+    }
+
+    .Estagiário {
+        width: 100%;
+        text-indent: 15%;
+        font-weight: bold;
+    }
+
+    .P4 {
+        width: 100%;
+        text-indent: 15%
+    }
+
+    h4 {
+        font-size: 30px;
+        text-indent: 1%;
+        background-color: #CCC;
+        border-bottom: 3px solid black;
+        width: 70%;
+        margin-top: auto;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: auto;
+        color: darkblue;
+    }
+
+    .P5 {
+        width: 100%;
+        text-indent: 15%;
+        font-weight: bold;
+    }
+
+    .P6 {
+        width: 100%;
+        text-indent: 15%
+    }
+
+    .P7 {
+        width: 100%;
+        text-indent: 15%
+    }
+
+    h5 {
+        font-size: 30px;
+        text-indent: 1%;
+        background-color: #CCC;
+        border-bottom: 3px solid black;
+        width: 70%;
+        margin-top: auto;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: auto;
+        color: darkblue;
+    }
+
+    .lista li {
+        width: 70%;
+        margin-left: 14%;
+        list-style-type: circle;
+    }
+
+    .P8 {
+        width: 100%;
+        text-indent: 15%;
+        font-weight:bold;
+    }
+
+    .P9{
+        width: 100%;
+        text-indent: 15%
+    }
+
+    .P10 {
+        width: 100%;
+        text-indent: 15%;
+        font-weight:bold;
+    }
+
+    .P11 {
+        width: 100%;
+        text-indent: 15%
+    }
